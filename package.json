@@ -1,0 +1,17 @@
+{
+  "name": "wechat-env",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "xxmi.cn",
+  "bin": {
+    "wechat-env": "bin/index"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.0",
+    "cross-spawn": "^7.0.3",
+    "debug": "^4.3.4",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
