@@ -4,7 +4,8 @@
   "license": "MIT",
   "author": "xxmi.cn",
   "bin": {
-    "wechat-env": "bin/index"
+    "wechat-env": "bin/index",
+    "re-suffix": "bin/suffix"
   },
   "dependencies": {
     "colors": "^1.4.0",
