@@ -7,6 +7,17 @@
     "wechat-env": "bin/index",
     "re-suffix": "bin/suffix"
   },
+  "files": [
+    "bin",
+    "examples",
+    "lib",
+    "node_modules",
+    "env.prod.yml",
+    "env.yml",
+    "package.json",
+    "README.md",
+    "yarn.lock"
+  ],
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^9.4.0",
